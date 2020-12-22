@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body {
+    background-color: rgba(241, 235, 235, 0.377);
+    font-family: 'Righteous', cursive;
+    font-size: 1.5em;
+    text-align: center;
+    
+}
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
